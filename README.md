@@ -1,0 +1,1 @@
+This repository demonstrates a common error in R programming: attempting to read a CSV file that doesn't exist. The `bug.R` file shows the problematic code that throws an error.  The `bugSolution.R` provides a solution with improved error handling and informative user messages. This is a crucial aspect of writing robust and user-friendly R scripts.
